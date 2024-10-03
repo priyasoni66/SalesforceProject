@@ -3,14 +3,14 @@
  * @author            : ChangeMeIn@UserSettingsUnder.SFDoc
  * @group             : 
  * @last modified on  : 10-03-2024
- * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
+ * @last modified by  : Priya Soni
  **/
 
 public with sharing class StudentInfo {
-    
+     
     // Constructor
     public StudentInfo() {
-        
+         
     }
 
     // Static method to calculate seniors
